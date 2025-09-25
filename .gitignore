@@ -9,7 +9,6 @@ UserSettings/
 *.csproj
 *.unitypackage
 
-# 必须跟踪
 !Assets/
 !Packages/
 !ProjectSettings/
